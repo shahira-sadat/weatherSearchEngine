@@ -6,7 +6,7 @@ WeatherSearchEngine
 
 ## Live Demo
 
-[Live Demo Link](https://65a3d8bbffa33079f91f57a3--clever-pudding-c10641.netlify.app/)
+[Live Demo Link](https://65a4cb1ecd15ad0625b17c78--clever-pudding-c10641.netlify.app/)
 
 ## Built With
 
